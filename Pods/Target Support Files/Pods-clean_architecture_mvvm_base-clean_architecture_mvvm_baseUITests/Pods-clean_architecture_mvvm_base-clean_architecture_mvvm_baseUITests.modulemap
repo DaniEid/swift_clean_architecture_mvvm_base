@@ -1,0 +1,6 @@
+framework module Pods_clean_architecture_mvvm_base_clean_architecture_mvvm_baseUITests {
+  umbrella header "Pods-clean_architecture_mvvm_base-clean_architecture_mvvm_baseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

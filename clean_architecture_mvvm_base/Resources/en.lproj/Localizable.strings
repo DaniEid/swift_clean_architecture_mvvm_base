@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  TestApp
+
+  Created by Dani  on 16/11/2021.
+  
+*/
+
+"on_boarding_welcome" = "Welcome";
+"parsing_error" = "Could not parse the object";
+"url_error" = "There is somethign wrong with requested URL";
+"server_error" = "Could not connect to the server, please try again";
+"args_error" = "Could not parse the arguments for the endpoint";
+"manufacturer_screen_title" = "Manufacturer";
+"main_types_screen_title" = "Types";
+"submit_button_title" = "Ok";
+"show_type_alert_title" = "You have selected";
+"error_title" = "Error";
