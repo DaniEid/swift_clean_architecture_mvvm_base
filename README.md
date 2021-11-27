@@ -4,6 +4,8 @@ This is an example of clean architecture and MVVM pattern written in swift
 First of all thanks to all of those who made our lives easier 
 Thanks to uncle bob for the clean architecture 
 
+Thanks to Mocky[https://designer.mocky.io] for creating the mocking APIs
+
 
 # Generics 
 I've tried to use generics to make every things follows the same patterns.
